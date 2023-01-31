@@ -5,7 +5,7 @@ CycleGAN very attractive structure for image to image translation.
 <A href = "https://arxiv.org/abs/1703.10593">  Paper Link, </A> <A href = "https://keepgoingrunner.tistory.com/42"> Paper Review</A>
 
 
-So i feel very impressive and do the work for my fun!!
+So i feel very impressive and do the work for my fun!!!
 
 
 Project object is that change the sex.
