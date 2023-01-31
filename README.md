@@ -11,7 +11,7 @@ So i feel very impressive and do the work for my fun.
 Project object is that change the sex.
 
 
-Using dataset that contains the various woman, man.
+Using dataset that contains the various woman, man
 
 
 
